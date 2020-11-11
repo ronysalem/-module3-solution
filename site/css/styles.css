@@ -2,13 +2,11 @@
 	box-sizing: border-box;
 }
 
-h1 {
-	text-align: center;
-}
+
 
 
 .title{
-	text-align: center;
+	
 	font-size: 1.5em
 
 }
@@ -42,4 +40,7 @@ h1 {
 	
 }
 
+.navbar-brand a:hover , .navbar-brand a:focus {
+	text-decoration-style: none;
+}
 
